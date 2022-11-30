@@ -1,0 +1,7 @@
+Se eh usa primeira vez usando o app, configure em trocar dados.
+Qual serviço gostaria de contactar? Escolha o número:
+1- Chamar Parente
+2- Samu
+3- Bombeiro
+4- chamar carro pro medico
+5- Trocar dados
